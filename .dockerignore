@@ -1,0 +1,13 @@
+# Ignore environment files
+env
+
+# Ignore Python cache and compiled bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+
+# Ignore local database files
+*.db
+*.sqlite3
